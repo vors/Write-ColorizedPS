@@ -5,3 +5,4 @@ Colorized output for powershell scripts
 ```powershell
 cat -raw .\Write-ColorizedPS.psm1 | Write-ColorizedPS
 ```
+![](sample.png)
